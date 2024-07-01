@@ -1,7 +1,7 @@
 /**
  * 
  * DESCRIPTION:
- * 
+ * https://www.codewars.com/kata/5655c60db4c2ce0c2e000026
  * Function composition is a mathematical operation that mainly presents itself in lambda calculus and computability. It is explained well here, but this is my explanation, in simple mathematical notation:
  * 
  * f3 = compose( f1 f2 )
